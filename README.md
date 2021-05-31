@@ -1,5 +1,5 @@
 
-# Blog_Full_stack
+# Personal-blog
 
 This is a personal blog I created for Abhinav Sathyanarayanan. It is a fully functional dynamic website that I have built using MongoDb , Express , Node.js.The frontend of this project was built using HTML, CSS, Bootstrap and Javascript.
 
