@@ -13,7 +13,7 @@ app.set("view engine",'ejs');
 
 app.use(bodyParser.urlencoded({extended:true}));
 app.use( express.static( "public" ) );
-mongoose.connect("mongodb+srv://admin-abhinav:lionking2001@abhinav.ispu5.mongodb.net/blogDB",{useNewUrlParser: true});
+mongoose.connect("mongodb+srv://admin-abhinav:******************.ispu5.mongodb.net/blogDB",{useNewUrlParser: true});
 
 
 const postSchema = {
